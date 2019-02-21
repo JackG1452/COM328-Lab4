@@ -1,0 +1,3 @@
+﻿  practical4.cpp
+c:\users\jag14\desktop\practical4\practical4\sorter.h(74): warning C5037: 'Sorter<T>::Sorter': an out-of-line definition of a member of a class template cannot have default arguments
+  practical4.vcxproj -> C:\Users\jag14\Desktop\practical4\Debug\practical4.exe
